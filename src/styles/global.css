@@ -38,14 +38,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-input,
-select,
-textarea {
-  border: none;
-  outline: none;
-}
-
-::placeholder {
-  color: rgba(0, 0, 0, 0.2);
-}
